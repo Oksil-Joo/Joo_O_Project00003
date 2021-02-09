@@ -1,8 +1,8 @@
-# Joo_O_Project0003
+# Joo_O_Project3
 Midterm Prep  CREATE YOUR OWN SCAFFOLD
 
 ### Prerequisites
-1. A ﬁnished design ﬁle based oﬀ of 2 wireframes
+1. A ﬁnished design ﬁles based oﬀ of 2 wireframes
 2. Boxed out Design File
 3. The pages must consist of valid HTML5 and CSS3. The pages must use semantic tagging and have a proper document outline.
 4. set up a folder with properly linked Javascript file and CSS reset.
